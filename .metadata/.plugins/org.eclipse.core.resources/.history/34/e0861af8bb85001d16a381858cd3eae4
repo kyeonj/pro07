@@ -1,5 +1,0 @@
-package kr.go.mohw.model;
-
-public interface SampleDAO {
-
-}
